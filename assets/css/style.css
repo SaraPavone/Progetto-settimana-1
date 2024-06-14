@@ -1,6 +1,32 @@
 /* GENERALE */
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.65rem;
+    color:#393d41 ;
+
+    align-content: center;
+
+}
+
 /* HEADER */
+
+.logo{
+    box-sizing: border-box;
+    padding: 10%;
+    width: 100%;
+    background-color: black;
+
+
+
+}
 
 /* MAIN */
 
